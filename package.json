@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-open-fec",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "OpenFEC MCP — Federal Election Commission campaign finance data",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d4d0776f49bfe5c802be79aa3aa63652b0adfa66cd193a5a96575660158b17a7",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-d39d13c69922e44a4cb99506be232c85171807e7e62ff75c27cfd3896b680a23",
+    "sourceCommit": "97740c6ee04c8acbfe7dddcacfde9e88ff2b9ca0"
   }
 }
